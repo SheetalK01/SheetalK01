@@ -91,7 +91,7 @@ prompt-injection red-teaming and live tracing.
 
 | Project | What it is | Tech |
 |---|---|---|
-| [Tune Hub](https://github.com/SheetalK01/tunehub) | Music streaming web app with playlists and membership plans | Java, Spring Boot, Hibernate, MySQL, JSP |
+| Tune Hub | Music streaming web app with playlists and membership plans | Java, Spring Boot, Hibernate, MySQL, JSP |
 | Bigmart Sales Prediction | ML model forecasting product sales across outlets, served via Flask | Python, Pandas, scikit-learn, Flask |
 
 ---
