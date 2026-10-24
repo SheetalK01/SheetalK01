@@ -6,6 +6,7 @@
 
 I build software and I make sure it doesn't break.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sheetalk01.github.io-8B5CF6?logo=googlechrome&logoColor=white)](https://sheetalk01.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sheetal--khadanga-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheetal-khadanga)
 [![Email](https://img.shields.io/badge/Email-khadangasheetal%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:khadangasheetal@gmail.com)
 ![Open to work](https://img.shields.io/badge/Open%20to-QA%20Automation%20%7C%20SDET%20%7C%20Full%20Stack-2EAD33)
@@ -100,6 +101,6 @@ prompt-injection red-teaming and live tracing.
 
 **Let's connect!** I'm open to **QA Automation, SDET and Full Stack** roles.
 
-[LinkedIn](https://www.linkedin.com/in/sheetal-khadanga) · [Email](mailto:khadangasheetal@gmail.com)
+[Portfolio](https://sheetalk01.github.io) · [LinkedIn](https://www.linkedin.com/in/sheetal-khadanga) · [Email](mailto:khadangasheetal@gmail.com)
 
 </div>
