@@ -24,7 +24,7 @@ I build software and I make sure it doesn't break.
 - 🔐 I test beyond the happy path: **API, RBAC/IDOR security, accessibility (WCAG/axe) and performance**.
 - 🤖 I'm exploring how **AI** can make testing faster, and how AI products themselves should be tested.
 - 🎓 MCA (NIST Berhampur) · Full Stack Java Development (KodNest)
-- 📍 India · open to relocate and remote
+- 📍 Bengaluru, India · open to relocate and remote
 
 ---
 
