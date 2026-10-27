@@ -47,9 +47,19 @@ cases, then turns them into a ready-to-run **Playwright** script or a formatted 
 | **QA** | **261 automated tests**: JUnit, pytest and Playwright (UI, API, security, accessibility, visual) plus k6 performance |
 | **DevOps** | Docker, docker-compose, Nginx, GitHub Actions CI with 6 jobs |
 
-### 🔨 Currently building: **EvalPilot**
-A testing and monitoring platform **for AI apps**: regression tests for prompts, LLM-as-judge grading,
-prompt-injection red-teaming and live tracing.
+### 🛡️ EvalPilot — test your AI before your users do
+A platform to **test, red-team and monitor AI chatbots**: test suites with rule-based and LLM-as-judge
+checks, live test runs over WebSockets with run-to-run regression diffs, a 26-attack red-team library
+with risk scoring, production tracing through an npm SDK, and a CLI that fails CI when AI quality drops.
+
+| | |
+|---|---|
+| **Frontend** | Next.js 15, TypeScript, Tailwind, Recharts, custom "Flight Deck" design, dark/light |
+| **Backend** | NestJS 11, Socket.IO, BullMQ workers on Redis, Prisma + MySQL, JWT + hashed API keys |
+| **AI** | Claude API as LLM judge and red-team attacker, with a deterministic mock mode |
+| **QA** | **700+ automated tests**: Jest, Vitest, Pact contract, Playwright (E2E, API, security, accessibility, visual) plus k6 load |
+| **DevOps** | Docker, GitHub Actions CI |
+
 *TestPilot uses AI for testing. EvalPilot tests AI.*
 
 ---
@@ -67,6 +77,8 @@ prompt-injection red-teaming and live tracing.
 **Frontend**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white)
@@ -75,13 +87,15 @@ prompt-injection red-teaming and live tracing.
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 
 **AI & DevOps**
 ![Claude](https://img.shields.io/badge/Claude%20API-D97757?logo=anthropic&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -93,7 +107,6 @@ prompt-injection red-teaming and live tracing.
 | Project | What it is | Tech |
 |---|---|---|
 | Tune Hub | Music streaming web app with playlists and membership plans | Java, Spring Boot, Hibernate, MySQL, JSP |
-| Bigmart Sales Prediction | ML model forecasting product sales across outlets, served via Flask | Python, Pandas, scikit-learn, Flask |
 
 ---
 
