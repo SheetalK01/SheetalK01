@@ -52,6 +52,10 @@ A platform to **test, red-team and monitor AI chatbots**: test suites with rule-
 checks, live test runs over WebSockets with run-to-run regression diffs, a 26-attack red-team library
 with risk scoring, production tracing through an npm SDK, and a CLI that fails CI when AI quality drops.
 
+<a href="https://github.com/SheetalK01/evalpilot">
+  <img src="https://raw.githubusercontent.com/SheetalK01/evalpilot/main/docs/demo.gif" alt="EvalPilot demo" width="760" />
+</a>
+
 | | |
 |---|---|
 | **Frontend** | Next.js 15, TypeScript, Tailwind, Recharts, custom "Flight Deck" design, dark/light |
